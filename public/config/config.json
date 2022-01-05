@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x508dCE5543781Ed504184272530F2ce787e3De80",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Dino",
+  "SYMBOL": "DINO",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
